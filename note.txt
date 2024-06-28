@@ -1,0 +1,1661 @@
+98 : Cannot bind the socket.
+common test network success
+name : common
+path : /home/ysc/tianshu/rl_deploy/build/../state_machine/policy/lite3_common.pt
+dim  : 45 5 270 12
+dof  :    0.1 -0.715   1.43   -0.1 -0.715   1.43    0.1 -0.715   1.43   -0.1 -0.715   1.43
+kp   : 30 30 30 30 30 30 30 30 30 30 30 30
+kd   : 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8
+limit: 40 40 65 40 40 65 40 40 65 40 40 65
+max_v:   1 0.3 0.6
+scale: 0.25 0.25 0.05 |    2    2 0.25
+tumbler_stand test network success
+name : tumbler_stand
+path : /home/ysc/tianshu/rl_deploy/build/../state_machine/policy/stand_student.pt
+dim  : 45 55 2523 12
+dof  :  0.1   -1  1.8 -0.1   -1  1.8  0.1   -1  1.8 -0.1   -1  1.8
+kp   : 33 25 25 33 25 25 33 25 25 33 25 25
+kd   : 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8 0.8
+limit: 40 40 65 40 40 65 40 40 65 40 40 65
+max_v:   1 0.3 0.6
+scale: 0.25 0.25 0.05 |    2    2 0.25
+parkour test network success
+name : parkour
+path : /home/ysc/tianshu/rl_deploy/build/../state_machine/policy/parkour.pt
+dim  : 53 10 753 12
+dof  :   0  -1 1.8  -0  -1 1.8   0  -1 1.8  -0  -1 1.8
+kp   : 40 40 40 40 40 40 40 40 40 40 40 40
+kd   : 1 1 1 1 1 1 1 1 1 1 1 1
+limit: 40 40 65 40 40 65 40 40 65 40 40 65
+max_v:   1 0.3 0.6
+scale: 0.25 0.25 0.05 |    2    2 0.25
+omg 2 : 0.794201
+joint status: 1 | imu status: 0
+omg 2 : 0.794201
+joint status: 1 | imu status: 0
+omg 2 : 0.794201
+joint status: 1 | imu status: 0
+omg 2 : 0.794201
+joint status: 1 | imu status: 0
+omg 2 : 0.794201
+joint status: 1 | imu status: 0
+omg 2 : 0.818231
+joint status: 1 | imu status: 0
+omg 2 : 0.818231
+joint status: 1 | imu status: 0
+omg 2 : 0.818231
+joint status: 1 | imu status: 0
+omg 2 : 0.818231
+joint status: 1 | imu status: 0
+omg 2 : 0.818231
+joint status: 1 | imu status: 0
+omg 2 : 0.828252
+joint status: 1 | imu status: 0
+omg 2 : 0.828252
+joint status: 1 | imu status: 0
+omg 2 : 0.828252
+joint status: 1 | imu status: 0
+omg 2 : 0.828252
+joint status: 1 | imu status: 0
+omg 2 : 0.828252
+joint status: 1 | imu status: 0
+omg 2 : 0.844155
+joint status: 1 | imu status: 0
+omg 2 : 0.844155
+joint status: 1 | imu status: 0
+omg 2 : 0.844155
+joint status: 1 | imu status: 0
+omg 2 : 0.844155
+joint status: 1 | imu status: 0
+omg 2 : 0.844155
+joint status: 1 | imu status: 0
+omg 2 : 0.876566
+joint status: 1 | imu status: 0
+omg 2 : 0.876566
+joint status: 1 | imu status: 0
+omg 2 : 0.876566
+joint status: 1 | imu status: 0
+omg 2 : 0.876566
+joint status: 1 | imu status: 0
+omg 2 : 0.876566
+joint status: 1 | imu status: 0
+omg 2 : 0.915466
+joint status: 1 | imu status: 0
+omg 2 : 0.915466
+joint status: 1 | imu status: 0
+omg 2 : 0.915466
+joint status: 1 | imu status: 0
+omg 2 : 0.915466
+joint status: 1 | imu status: 0
+omg 2 : 0.915466
+joint status: 1 | imu status: 0
+omg 2 : 0.958896
+joint status: 1 | imu status: 0
+omg 2 : 0.958896
+joint status: 1 | imu status: 0
+omg 2 : 0.958896
+joint status: 1 | imu status: 0
+omg 2 : 0.958896
+joint status: 1 | imu status: 0
+omg 2 : 0.958896
+joint status: 1 | imu status: 0
+omg 2 : 0.994251
+joint status: 1 | imu status: 0
+omg 2 : 0.994251
+joint status: 1 | imu status: 0
+omg 2 : 0.994251
+joint status: 1 | imu status: 0
+omg 2 : 0.994251
+joint status: 1 | imu status: 0
+omg 2 : 0.994251
+joint status: 1 | imu status: 0
+omg 2 : 1.02477
+joint status: 1 | imu status: 0
+omg 2 : 1.02477
+joint status: 1 | imu status: 0
+omg 2 : 1.02477
+joint status: 1 | imu status: 0
+omg 2 : 1.02477
+joint status: 1 | imu status: 0
+omg 2 : 1.02477
+joint status: 1 | imu status: 0
+omg 2 : 1.04731
+joint status: 1 | imu status: 0
+omg 2 : 1.04731
+joint status: 1 | imu status: 0
+omg 2 : 1.04731
+joint status: 1 | imu status: 0
+omg 2 : 1.04731
+joint status: 1 | imu status: 0
+omg 2 : 1.04731
+joint status: 1 | imu status: 0
+omg 2 : 1.05516
+joint status: 1 | imu status: 0
+omg 2 : 1.05516
+joint status: 1 | imu status: 0
+omg 2 : 1.05516
+joint status: 1 | imu status: 0
+omg 2 : 1.05516
+joint status: 1 | imu status: 0
+omg 2 : 1.05516
+joint status: 1 | imu status: 0
+omg 2 : 1.0631
+joint status: 1 | imu status: 0
+omg 2 : 1.0631
+joint status: 1 | imu status: 0
+omg 2 : 1.0631
+joint status: 1 | imu status: 0
+omg 2 : 1.0631
+joint status: 1 | imu status: 0
+omg 2 : 1.0631
+joint status: 1 | imu status: 0
+omg 2 : 1.08598
+joint status: 1 | imu status: 0
+omg 2 : 1.08598
+joint status: 1 | imu status: 0
+omg 2 : 1.08598
+joint status: 1 | imu status: 0
+omg 2 : 1.08598
+joint status: 1 | imu status: 0
+omg 2 : 1.08598
+joint status: 1 | imu status: 0
+omg 2 : 1.13281
+joint status: 1 | imu status: 0
+omg 2 : 1.13281
+joint status: 1 | imu status: 0
+omg 2 : 1.13281
+joint status: 1 | imu status: 0
+omg 2 : 1.13281
+joint status: 1 | imu status: 0
+omg 2 : 1.13281
+joint status: 1 | imu status: 0
+omg 2 : 1.18121
+joint status: 1 | imu status: 0
+omg 2 : 1.18121
+joint status: 1 | imu status: 0
+omg 2 : 1.18121
+joint status: 1 | imu status: 0
+omg 2 : 1.18121
+joint status: 1 | imu status: 0
+omg 2 : 1.18121
+joint status: 1 | imu status: 0
+omg 2 : 1.22803
+joint status: 1 | imu status: 0
+omg 2 : 1.22803
+joint status: 1 | imu status: 0
+omg 2 : 1.22803
+joint status: 1 | imu status: 0
+omg 2 : 1.22803
+joint status: 1 | imu status: 0
+omg 2 : 1.22803
+joint status: 1 | imu status: 0
+omg 2 : 1.24521
+joint status: 1 | imu status: 0
+omg 2 : 1.24521
+joint status: 1 | imu status: 0
+omg 2 : 1.24521
+joint status: 1 | imu status: 0
+omg 2 : 1.24521
+joint status: 1 | imu status: 0
+omg 2 : 1.24521
+joint status: 1 | imu status: 0
+omg 2 : 1.26726
+joint status: 1 | imu status: 0
+omg 2 : 1.26726
+joint status: 1 | imu status: 0
+omg 2 : 1.26726
+joint status: 1 | imu status: 0
+omg 2 : 1.26726
+joint status: 1 | imu status: 0
+omg 2 : 1.26726
+joint status: 1 | imu status: 0
+omg 2 : 1.26877
+joint status: 1 | imu status: 0
+omg 2 : 1.26877
+joint status: 1 | imu status: 0
+omg 2 : 1.26877
+joint status: 1 | imu status: 0
+omg 2 : 1.26877
+joint status: 1 | imu status: 0
+omg 2 : 1.26877
+joint status: 1 | imu status: 0
+omg 2 : 1.28693
+joint status: 1 | imu status: 0
+omg 2 : 1.28693
+joint status: 1 | imu status: 0
+omg 2 : 1.28693
+joint status: 1 | imu status: 0
+omg 2 : 1.28693
+joint status: 1 | imu status: 0
+omg 2 : 1.28693
+joint status: 1 | imu status: 0
+omg 2 : 1.33971
+joint status: 1 | imu status: 0
+omg 2 : 1.33971
+joint status: 1 | imu status: 0
+omg 2 : 1.33971
+joint status: 1 | imu status: 0
+omg 2 : 1.33971
+joint status: 1 | imu status: 0
+omg 2 : 1.33971
+joint status: 1 | imu status: 0
+omg 2 : 1.3612
+joint status: 1 | imu status: 0
+omg 2 : 1.3612
+joint status: 1 | imu status: 0
+omg 2 : 1.3612
+joint status: 1 | imu status: 0
+omg 2 : 1.3612
+joint status: 1 | imu status: 0
+omg 2 : 1.3612
+joint status: 1 | imu status: 0
+omg 2 : 1.33787
+joint status: 1 | imu status: 0
+omg 2 : 1.33787
+joint status: 1 | imu status: 0
+omg 2 : 1.33787
+joint status: 1 | imu status: 0
+omg 2 : 1.33787
+joint status: 1 | imu status: 0
+omg 2 : 1.33787
+joint status: 1 | imu status: 0
+omg 2 : 1.32975
+joint status: 1 | imu status: 0
+omg 2 : 1.32975
+joint status: 1 | imu status: 0
+omg 2 : 1.32975
+joint status: 1 | imu status: 0
+omg 2 : 1.32975
+joint status: 1 | imu status: 0
+omg 2 : 1.32975
+joint status: 1 | imu status: 0
+omg 2 : 1.35929
+joint status: 1 | imu status: 0
+omg 2 : 1.35929
+joint status: 1 | imu status: 0
+omg 2 : 1.35929
+joint status: 1 | imu status: 0
+omg 2 : 1.35929
+joint status: 1 | imu status: 0
+omg 2 : 1.35929
+joint status: 1 | imu status: 0
+omg 2 : 1.40373
+joint status: 1 | imu status: 0
+omg 2 : 1.40373
+joint status: 1 | imu status: 0
+omg 2 : 1.40373
+joint status: 1 | imu status: 0
+omg 2 : 1.40373
+joint status: 1 | imu status: 0
+omg 2 : 1.40373
+joint status: 1 | imu status: 0
+omg 2 : 1.44382
+joint status: 1 | imu status: 0
+omg 2 : 1.44382
+joint status: 1 | imu status: 0
+omg 2 : 1.44382
+joint status: 1 | imu status: 0
+omg 2 : 1.44382
+joint status: 1 | imu status: 0
+omg 2 : 1.44382
+joint status: 1 | imu status: 0
+omg 2 : 1.47297
+joint status: 1 | imu status: 0
+omg 2 : 1.47297
+joint status: 1 | imu status: 0
+omg 2 : 1.47297
+joint status: 1 | imu status: 0
+omg 2 : 1.47297
+joint status: 1 | imu status: 0
+omg 2 : 1.47297
+joint status: 1 | imu status: 0
+omg 2 : 1.45793
+joint status: 1 | imu status: 0
+omg 2 : 1.45793
+joint status: 1 | imu status: 0
+omg 2 : 1.45793
+joint status: 1 | imu status: 0
+omg 2 : 1.45793
+joint status: 1 | imu status: 0
+omg 2 : 1.45793
+joint status: 1 | imu status: 0
+omg 2 : 1.44959
+joint status: 1 | imu status: 0
+omg 2 : 1.44959
+joint status: 1 | imu status: 0
+omg 2 : 1.44959
+joint status: 1 | imu status: 0
+omg 2 : 1.44959
+joint status: 1 | imu status: 0
+omg 2 : 1.44959
+joint status: 1 | imu status: 0
+omg 2 : 1.46913
+joint status: 1 | imu status: 0
+omg 2 : 1.46913
+joint status: 1 | imu status: 0
+omg 2 : 1.46913
+joint status: 1 | imu status: 0
+omg 2 : 1.46913
+joint status: 1 | imu status: 0
+omg 2 : 1.46913
+joint status: 1 | imu status: 0
+omg 2 : 1.45207
+joint status: 1 | imu status: 0
+omg 2 : 1.45207
+joint status: 1 | imu status: 0
+omg 2 : 1.45207
+joint status: 1 | imu status: 0
+omg 2 : 1.45207
+joint status: 1 | imu status: 0
+omg 2 : 1.45207
+joint status: 1 | imu status: 0
+omg 2 : 1.46426
+joint status: 1 | imu status: 0
+omg 2 : 1.46426
+joint status: 1 | imu status: 0
+omg 2 : 1.46426
+joint status: 1 | imu status: 0
+omg 2 : 1.46426
+joint status: 1 | imu status: 0
+omg 2 : 1.46426
+joint status: 1 | imu status: 0
+omg 2 : 1.51646
+joint status: 1 | imu status: 0
+omg 2 : 1.51646
+joint status: 1 | imu status: 0
+omg 2 : 1.51646
+joint status: 1 | imu status: 0
+omg 2 : 1.51646
+joint status: 1 | imu status: 0
+omg 2 : 1.51646
+joint status: 1 | imu status: 0
+omg 2 : 1.53698
+joint status: 1 | imu status: 0
+omg 2 : 1.53698
+joint status: 1 | imu status: 0
+omg 2 : 1.53698
+joint status: 1 | imu status: 0
+omg 2 : 1.53698
+joint status: 1 | imu status: 0
+omg 2 : 1.53698
+joint status: 1 | imu status: 0
+omg 2 : 1.5052
+joint status: 1 | imu status: 0
+omg 2 : 1.5052
+joint status: 1 | imu status: 0
+omg 2 : 1.5052
+joint status: 1 | imu status: 0
+omg 2 : 1.5052
+joint status: 1 | imu status: 0
+omg 2 : 1.5052
+joint status: 1 | imu status: 0
+omg 2 : 1.48789
+joint status: 1 | imu status: 0
+omg 2 : 1.48789
+joint status: 1 | imu status: 0
+omg 2 : 1.48789
+joint status: 1 | imu status: 0
+omg 2 : 1.48789
+joint status: 1 | imu status: 0
+omg 2 : 1.48789
+joint status: 1 | imu status: 0
+omg 2 : 1.47896
+joint status: 1 | imu status: 0
+omg 2 : 1.47896
+joint status: 1 | imu status: 0
+omg 2 : 1.47896
+joint status: 1 | imu status: 0
+omg 2 : 1.47896
+joint status: 1 | imu status: 0
+omg 2 : 1.47896
+joint status: 1 | imu status: 0
+omg 2 : 1.48331
+joint status: 1 | imu status: 0
+omg 2 : 1.48331
+joint status: 1 | imu status: 0
+omg 2 : 1.48331
+joint status: 1 | imu status: 0
+omg 2 : 1.48331
+joint status: 1 | imu status: 0
+omg 2 : 1.48331
+joint status: 1 | imu status: 0
+omg 2 : 1.51531
+joint status: 1 | imu status: 0
+omg 2 : 1.51531
+joint status: 1 | imu status: 0
+omg 2 : 1.51531
+joint status: 1 | imu status: 0
+omg 2 : 1.51531
+joint status: 1 | imu status: 0
+omg 2 : 1.51531
+joint status: 1 | imu status: 0
+omg 2 : 1.51387
+joint status: 1 | imu status: 0
+omg 2 : 1.51387
+joint status: 1 | imu status: 0
+omg 2 : 1.51387
+joint status: 1 | imu status: 0
+omg 2 : 1.51387
+joint status: 1 | imu status: 0
+omg 2 : 1.51387
+joint status: 1 | imu status: 0
+omg 2 : 1.48424
+joint status: 1 | imu status: 0
+omg 2 : 1.48424
+joint status: 1 | imu status: 0
+omg 2 : 1.48424
+joint status: 1 | imu status: 0
+omg 2 : 1.48424
+joint status: 1 | imu status: 0
+omg 2 : 1.48424
+joint status: 1 | imu status: 0
+omg 2 : 1.49823
+joint status: 1 | imu status: 0
+omg 2 : 1.49823
+joint status: 1 | imu status: 0
+omg 2 : 1.49823
+joint status: 1 | imu status: 0
+omg 2 : 1.49823
+joint status: 1 | imu status: 0
+omg 2 : 1.49823
+joint status: 1 | imu status: 0
+omg 2 : 1.51191
+joint status: 1 | imu status: 0
+omg 2 : 1.51191
+joint status: 1 | imu status: 0
+omg 2 : 1.51191
+joint status: 1 | imu status: 0
+omg 2 : 1.51191
+joint status: 1 | imu status: 0
+omg 2 : 1.51191
+joint status: 1 | imu status: 0
+omg 2 : 1.51893
+joint status: 1 | imu status: 0
+omg 2 : 1.51893
+joint status: 1 | imu status: 0
+omg 2 : 1.51893
+joint status: 1 | imu status: 0
+omg 2 : 1.51893
+joint status: 1 | imu status: 0
+omg 2 : 1.51893
+joint status: 1 | imu status: 0
+omg 2 : 1.5302
+joint status: 1 | imu status: 0
+omg 2 : 1.5302
+joint status: 1 | imu status: 0
+omg 2 : 1.5302
+joint status: 1 | imu status: 0
+omg 2 : 1.5302
+joint status: 1 | imu status: 0
+omg 2 : 1.5302
+joint status: 1 | imu status: 0
+omg 2 : 1.51206
+joint status: 1 | imu status: 0
+omg 2 : 1.51206
+joint status: 1 | imu status: 0
+omg 2 : 1.51206
+joint status: 1 | imu status: 0
+omg 2 : 1.51206
+joint status: 1 | imu status: 0
+omg 2 : 1.51206
+joint status: 1 | imu status: 0
+omg 2 : 1.48478
+joint status: 1 | imu status: 0
+omg 2 : 1.48478
+joint status: 1 | imu status: 0
+omg 2 : 1.48478
+joint status: 1 | imu status: 0
+omg 2 : 1.48478
+joint status: 1 | imu status: 0
+omg 2 : 1.48478
+joint status: 1 | imu status: 0
+omg 2 : 1.49182
+joint status: 1 | imu status: 0
+omg 2 : 1.49182
+joint status: 1 | imu status: 0
+omg 2 : 1.49182
+joint status: 1 | imu status: 0
+omg 2 : 1.49182
+joint status: 1 | imu status: 0
+omg 2 : 1.49182
+joint status: 1 | imu status: 0
+omg 2 : 1.49343
+joint status: 1 | imu status: 0
+omg 2 : 1.49343
+joint status: 1 | imu status: 0
+omg 2 : 1.49343
+joint status: 1 | imu status: 0
+omg 2 : 1.49343
+joint status: 1 | imu status: 0
+omg 2 : 1.49343
+joint status: 1 | imu status: 0
+omg 2 : 1.47805
+joint status: 1 | imu status: 0
+omg 2 : 1.47805
+joint status: 1 | imu status: 0
+omg 2 : 1.47805
+joint status: 1 | imu status: 0
+omg 2 : 1.47805
+joint status: 1 | imu status: 0
+omg 2 : 1.47805
+joint status: 1 | imu status: 0
+omg 2 : 1.44476
+joint status: 1 | imu status: 0
+omg 2 : 1.44476
+joint status: 1 | imu status: 0
+omg 2 : 1.44476
+joint status: 1 | imu status: 0
+omg 2 : 1.44476
+joint status: 1 | imu status: 0
+omg 2 : 1.44476
+joint status: 1 | imu status: 0
+omg 2 : 1.40927
+joint status: 1 | imu status: 0
+omg 2 : 1.40927
+joint status: 1 | imu status: 0
+omg 2 : 1.40927
+joint status: 1 | imu status: 0
+omg 2 : 1.40927
+joint status: 1 | imu status: 0
+omg 2 : 1.40927
+joint status: 1 | imu status: 0
+omg 2 : 1.38227
+joint status: 1 | imu status: 0
+omg 2 : 1.38227
+joint status: 1 | imu status: 0
+omg 2 : 1.38227
+joint status: 1 | imu status: 0
+omg 2 : 1.38227
+joint status: 1 | imu status: 0
+omg 2 : 1.38227
+joint status: 1 | imu status: 0
+omg 2 : 1.37694
+joint status: 1 | imu status: 0
+omg 2 : 1.37694
+joint status: 1 | imu status: 0
+omg 2 : 1.37694
+joint status: 1 | imu status: 0
+omg 2 : 1.37694
+joint status: 1 | imu status: 0
+omg 2 : 1.37694
+joint status: 1 | imu status: 0
+omg 2 : 1.3767
+joint status: 1 | imu status: 0
+omg 2 : 1.3767
+joint status: 1 | imu status: 0
+omg 2 : 1.3767
+joint status: 1 | imu status: 0
+omg 2 : 1.3767
+joint status: 1 | imu status: 0
+omg 2 : 1.3767
+joint status: 1 | imu status: 0
+omg 2 : 1.37681
+joint status: 1 | imu status: 0
+omg 2 : 1.37681
+joint status: 1 | imu status: 0
+omg 2 : 1.37681
+joint status: 1 | imu status: 0
+omg 2 : 1.37681
+joint status: 1 | imu status: 0
+omg 2 : 1.37681
+joint status: 1 | imu status: 0
+omg 2 : 1.40381
+joint status: 1 | imu status: 0
+omg 2 : 1.40381
+joint status: 1 | imu status: 0
+omg 2 : 1.40381
+joint status: 1 | imu status: 0
+omg 2 : 1.40381
+joint status: 1 | imu status: 0
+omg 2 : 1.40381
+joint status: 1 | imu status: 0
+omg 2 : 1.43133
+joint status: 1 | imu status: 0
+omg 2 : 1.43133
+joint status: 1 | imu status: 0
+omg 2 : 1.43133
+joint status: 1 | imu status: 0
+omg 2 : 1.43133
+joint status: 1 | imu status: 0
+omg 2 : 1.43133
+joint status: 1 | imu status: 0
+omg 2 : 1.42797
+joint status: 1 | imu status: 0
+omg 2 : 1.42797
+joint status: 1 | imu status: 0
+omg 2 : 1.42797
+joint status: 1 | imu status: 0
+omg 2 : 1.42797
+joint status: 1 | imu status: 0
+omg 2 : 1.42797
+joint status: 1 | imu status: 0
+omg 2 : 1.36674
+joint status: 1 | imu status: 0
+omg 2 : 1.36674
+joint status: 1 | imu status: 0
+omg 2 : 1.36674
+joint status: 1 | imu status: 0
+omg 2 : 1.36674
+joint status: 1 | imu status: 0
+omg 2 : 1.36674
+joint status: 1 | imu status: 0
+omg 2 : 1.30973
+joint status: 1 | imu status: 0
+omg 2 : 1.30973
+joint status: 1 | imu status: 0
+omg 2 : 1.30973
+joint status: 1 | imu status: 0
+omg 2 : 1.30973
+joint status: 1 | imu status: 0
+omg 2 : 1.30973
+joint status: 1 | imu status: 0
+omg 2 : 1.30221
+joint status: 1 | imu status: 0
+omg 2 : 1.30221
+joint status: 1 | imu status: 0
+omg 2 : 1.30221
+joint status: 1 | imu status: 0
+omg 2 : 1.30221
+joint status: 1 | imu status: 0
+omg 2 : 1.30221
+joint status: 1 | imu status: 0
+omg 2 : 1.34554
+joint status: 1 | imu status: 0
+omg 2 : 1.34554
+joint status: 1 | imu status: 0
+omg 2 : 1.34554
+joint status: 1 | imu status: 0
+omg 2 : 1.34554
+joint status: 1 | imu status: 0
+omg 2 : 1.34554
+joint status: 1 | imu status: 0
+omg 2 : 1.39067
+joint status: 1 | imu status: 0
+omg 2 : 1.39067
+joint status: 1 | imu status: 0
+omg 2 : 1.39067
+joint status: 1 | imu status: 0
+omg 2 : 1.39067
+joint status: 1 | imu status: 0
+omg 2 : 1.39067
+joint status: 1 | imu status: 0
+omg 2 : 1.3605
+joint status: 1 | imu status: 0
+omg 2 : 1.3605
+joint status: 1 | imu status: 0
+omg 2 : 1.3605
+joint status: 1 | imu status: 0
+omg 2 : 1.3605
+joint status: 1 | imu status: 0
+omg 2 : 1.3605
+joint status: 1 | imu status: 0
+omg 2 : 1.31139
+joint status: 1 | imu status: 0
+omg 2 : 1.31139
+joint status: 1 | imu status: 0
+omg 2 : 1.31139
+joint status: 1 | imu status: 0
+omg 2 : 1.31139
+joint status: 1 | imu status: 0
+omg 2 : 1.31139
+joint status: 1 | imu status: 0
+omg 2 : 1.28162
+joint status: 1 | imu status: 0
+omg 2 : 1.28162
+joint status: 1 | imu status: 0
+omg 2 : 1.28162
+joint status: 1 | imu status: 0
+omg 2 : 1.28162
+joint status: 1 | imu status: 0
+omg 2 : 1.28162
+joint status: 1 | imu status: 0
+omg 2 : 1.27208
+joint status: 1 | imu status: 0
+omg 2 : 1.27208
+joint status: 1 | imu status: 0
+omg 2 : 1.27208
+joint status: 1 | imu status: 0
+omg 2 : 1.27208
+joint status: 1 | imu status: 0
+omg 2 : 1.27208
+joint status: 1 | imu status: 0
+omg 2 : 1.31435
+joint status: 1 | imu status: 0
+omg 2 : 1.31435
+joint status: 1 | imu status: 0
+omg 2 : 1.31435
+joint status: 1 | imu status: 0
+omg 2 : 1.31435
+joint status: 1 | imu status: 0
+omg 2 : 1.31435
+joint status: 1 | imu status: 0
+omg 2 : 1.32093
+joint status: 1 | imu status: 0
+omg 2 : 1.32093
+joint status: 1 | imu status: 0
+omg 2 : 1.32093
+joint status: 1 | imu status: 0
+omg 2 : 1.32093
+joint status: 1 | imu status: 0
+omg 2 : 1.32093
+joint status: 1 | imu status: 0
+omg 2 : 1.29406
+joint status: 1 | imu status: 0
+omg 2 : 1.29406
+joint status: 1 | imu status: 0
+omg 2 : 1.29406
+joint status: 1 | imu status: 0
+omg 2 : 1.29406
+joint status: 1 | imu status: 0
+omg 2 : 1.29406
+joint status: 1 | imu status: 0
+omg 2 : 1.25569
+joint status: 1 | imu status: 0
+omg 2 : 1.25569
+joint status: 1 | imu status: 0
+omg 2 : 1.25569
+joint status: 1 | imu status: 0
+omg 2 : 1.25569
+joint status: 1 | imu status: 0
+omg 2 : 1.25569
+joint status: 1 | imu status: 0
+omg 2 : 1.25305
+joint status: 1 | imu status: 0
+omg 2 : 1.25305
+joint status: 1 | imu status: 0
+omg 2 : 1.25305
+joint status: 1 | imu status: 0
+omg 2 : 1.25305
+joint status: 1 | imu status: 0
+omg 2 : 1.25305
+joint status: 1 | imu status: 0
+omg 2 : 1.28164
+joint status: 1 | imu status: 0
+omg 2 : 1.28164
+joint status: 1 | imu status: 0
+omg 2 : 1.28164
+joint status: 1 | imu status: 0
+omg 2 : 1.28164
+joint status: 1 | imu status: 0
+omg 2 : 1.28164
+joint status: 1 | imu status: 0
+omg 2 : 1.26789
+joint status: 1 | imu status: 0
+omg 2 : 1.26789
+joint status: 1 | imu status: 0
+omg 2 : 1.26789
+joint status: 1 | imu status: 0
+omg 2 : 1.26789
+joint status: 1 | imu status: 0
+omg 2 : 1.26789
+joint status: 1 | imu status: 0
+omg 2 : 1.2353
+joint status: 1 | imu status: 0
+omg 2 : 1.2353
+joint status: 1 | imu status: 0
+omg 2 : 1.2353
+joint status: 1 | imu status: 0
+omg 2 : 1.2353
+joint status: 1 | imu status: 0
+omg 2 : 1.2353
+joint status: 1 | imu status: 0
+omg 2 : 1.2215
+joint status: 1 | imu status: 0
+omg 2 : 1.2215
+joint status: 1 | imu status: 0
+omg 2 : 1.2215
+joint status: 1 | imu status: 0
+omg 2 : 1.2215
+joint status: 1 | imu status: 0
+omg 2 : 1.2215
+joint status: 1 | imu status: 0
+omg 2 : 1.18931
+joint status: 1 | imu status: 0
+omg 2 : 1.18931
+joint status: 1 | imu status: 0
+omg 2 : 1.18931
+joint status: 1 | imu status: 0
+omg 2 : 1.18931
+joint status: 1 | imu status: 0
+omg 2 : 1.18931
+joint status: 1 | imu status: 0
+omg 2 : 1.14422
+joint status: 1 | imu status: 0
+omg 2 : 1.14422
+joint status: 1 | imu status: 0
+omg 2 : 1.14422
+joint status: 1 | imu status: 0
+omg 2 : 1.14422
+joint status: 1 | imu status: 0
+omg 2 : 1.14422
+joint status: 1 | imu status: 0
+omg 2 : 1.13323
+joint status: 1 | imu status: 0
+omg 2 : 1.13323
+joint status: 1 | imu status: 0
+omg 2 : 1.13323
+joint status: 1 | imu status: 0
+omg 2 : 1.13323
+joint status: 1 | imu status: 0
+omg 2 : 1.13323
+joint status: 1 | imu status: 0
+omg 2 : 1.20761
+joint status: 1 | imu status: 0
+omg 2 : 1.20761
+joint status: 1 | imu status: 0
+omg 2 : 1.20761
+joint status: 1 | imu status: 0
+omg 2 : 1.20761
+joint status: 1 | imu status: 0
+omg 2 : 1.20761
+joint status: 1 | imu status: 0
+omg 2 : 1.26871
+joint status: 1 | imu status: 0
+omg 2 : 1.26871
+joint status: 1 | imu status: 0
+omg 2 : 1.26871
+joint status: 1 | imu status: 0
+omg 2 : 1.26871
+joint status: 1 | imu status: 0
+omg 2 : 1.26871
+joint status: 1 | imu status: 0
+omg 2 : 1.22744
+joint status: 1 | imu status: 0
+omg 2 : 1.22744
+joint status: 1 | imu status: 0
+omg 2 : 1.22744
+joint status: 1 | imu status: 0
+omg 2 : 1.22744
+joint status: 1 | imu status: 0
+omg 2 : 1.22744
+joint status: 1 | imu status: 0
+omg 2 : 1.13858
+joint status: 1 | imu status: 0
+omg 2 : 1.13858
+joint status: 1 | imu status: 0
+omg 2 : 1.13858
+joint status: 1 | imu status: 0
+omg 2 : 1.13858
+joint status: 1 | imu status: 0
+omg 2 : 1.13858
+joint status: 1 | imu status: 0
+omg 2 : 1.1007
+joint status: 1 | imu status: 0
+omg 2 : 1.1007
+joint status: 1 | imu status: 0
+omg 2 : 1.1007
+joint status: 1 | imu status: 0
+omg 2 : 1.1007
+joint status: 1 | imu status: 0
+omg 2 : 1.1007
+joint status: 1 | imu status: 0
+omg 2 : 1.09793
+joint status: 1 | imu status: 0
+omg 2 : 1.09793
+joint status: 1 | imu status: 0
+omg 2 : 1.09793
+joint status: 1 | imu status: 0
+omg 2 : 1.09793
+joint status: 1 | imu status: 0
+omg 2 : 1.09793
+joint status: 1 | imu status: 0
+omg 2 : 1.13458
+joint status: 1 | imu status: 0
+omg 2 : 1.13458
+joint status: 1 | imu status: 0
+omg 2 : 1.13458
+joint status: 1 | imu status: 0
+omg 2 : 1.13458
+joint status: 1 | imu status: 0
+omg 2 : 1.13458
+joint status: 1 | imu status: 0
+omg 2 : 1.18581
+joint status: 1 | imu status: 0
+omg 2 : 1.18581
+joint status: 1 | imu status: 0
+omg 2 : 1.18581
+joint status: 1 | imu status: 0
+omg 2 : 1.18581
+joint status: 1 | imu status: 0
+omg 2 : 1.18581
+joint status: 1 | imu status: 0
+omg 2 : 1.18951
+joint status: 1 | imu status: 0
+omg 2 : 1.18951
+joint status: 1 | imu status: 0
+omg 2 : 1.18951
+joint status: 1 | imu status: 0
+omg 2 : 1.18951
+joint status: 1 | imu status: 0
+omg 2 : 1.18951
+joint status: 1 | imu status: 0
+omg 2 : 1.13834
+joint status: 1 | imu status: 0
+omg 2 : 1.13834
+joint status: 1 | imu status: 0
+omg 2 : 1.13834
+joint status: 1 | imu status: 0
+omg 2 : 1.13834
+joint status: 1 | imu status: 0
+omg 2 : 1.13834
+joint status: 1 | imu status: 0
+omg 2 : 1.10117
+joint status: 1 | imu status: 0
+omg 2 : 1.10117
+joint status: 1 | imu status: 0
+omg 2 : 1.10117
+joint status: 1 | imu status: 0
+omg 2 : 1.10117
+joint status: 1 | imu status: 0
+omg 2 : 1.10117
+joint status: 1 | imu status: 0
+omg 2 : 1.08103
+joint status: 1 | imu status: 0
+omg 2 : 1.08103
+joint status: 1 | imu status: 0
+omg 2 : 1.08103
+joint status: 1 | imu status: 0
+omg 2 : 1.08103
+joint status: 1 | imu status: 0
+omg 2 : 1.08103
+joint status: 1 | imu status: 0
+omg 2 : 1.08542
+joint status: 1 | imu status: 0
+omg 2 : 1.08542
+joint status: 1 | imu status: 0
+omg 2 : 1.08542
+joint status: 1 | imu status: 0
+omg 2 : 1.08542
+joint status: 1 | imu status: 0
+omg 2 : 1.08542
+joint status: 1 | imu status: 0
+omg 2 : 1.10246
+joint status: 1 | imu status: 0
+omg 2 : 1.10246
+joint status: 1 | imu status: 0
+omg 2 : 1.10246
+joint status: 1 | imu status: 0
+omg 2 : 1.10246
+joint status: 1 | imu status: 0
+omg 2 : 1.10246
+joint status: 1 | imu status: 0
+omg 2 : 1.06347
+joint status: 1 | imu status: 0
+omg 2 : 1.06347
+joint status: 1 | imu status: 0
+omg 2 : 1.06347
+joint status: 1 | imu status: 0
+omg 2 : 1.06347
+joint status: 1 | imu status: 0
+omg 2 : 1.06347
+joint status: 1 | imu status: 0
+omg 2 : 1.04218
+joint status: 1 | imu status: 0
+omg 2 : 1.04218
+joint status: 1 | imu status: 0
+omg 2 : 1.04218
+joint status: 1 | imu status: 0
+omg 2 : 1.04218
+joint status: 1 | imu status: 0
+omg 2 : 1.04218
+joint status: 1 | imu status: 0
+omg 2 : 1.08237
+joint status: 1 | imu status: 0
+omg 2 : 1.08237
+joint status: 1 | imu status: 0
+omg 2 : 1.08237
+joint status: 1 | imu status: 0
+omg 2 : 1.08237
+joint status: 1 | imu status: 0
+omg 2 : 1.08237
+joint status: 1 | imu status: 0
+omg 2 : 1.08978
+joint status: 1 | imu status: 0
+omg 2 : 1.08978
+joint status: 1 | imu status: 0
+omg 2 : 1.08978
+joint status: 1 | imu status: 0
+omg 2 : 1.08978
+joint status: 1 | imu status: 0
+omg 2 : 1.08978
+joint status: 1 | imu status: 0
+omg 2 : 1.06201
+joint status: 1 | imu status: 0
+omg 2 : 1.06201
+joint status: 1 | imu status: 0
+omg 2 : 1.06201
+joint status: 1 | imu status: 0
+omg 2 : 1.06201
+joint status: 1 | imu status: 0
+omg 2 : 1.06201
+joint status: 1 | imu status: 0
+omg 2 : 1.02175
+joint status: 1 | imu status: 0
+omg 2 : 1.02175
+joint status: 1 | imu status: 0
+omg 2 : 1.02175
+joint status: 1 | imu status: 0
+omg 2 : 1.02175
+joint status: 1 | imu status: 0
+omg 2 : 1.02175
+joint status: 1 | imu status: 0
+omg 2 : 0.942769
+joint status: 1 | imu status: 0
+omg 2 : 0.942769
+joint status: 1 | imu status: 0
+omg 2 : 0.942769
+joint status: 1 | imu status: 0
+omg 2 : 0.942769
+joint status: 1 | imu status: 0
+omg 2 : 0.942769
+joint status: 1 | imu status: 0
+omg 2 : 0.932736
+joint status: 1 | imu status: 0
+omg 2 : 0.932736
+joint status: 1 | imu status: 0
+omg 2 : 0.932736
+joint status: 1 | imu status: 0
+omg 2 : 0.932736
+joint status: 1 | imu status: 0
+omg 2 : 0.932736
+joint status: 1 | imu status: 0
+omg 2 : 0.947123
+joint status: 1 | imu status: 0
+omg 2 : 0.947123
+joint status: 1 | imu status: 0
+omg 2 : 0.947123
+joint status: 1 | imu status: 0
+omg 2 : 0.947123
+joint status: 1 | imu status: 0
+omg 2 : 0.947123
+joint status: 1 | imu status: 0
+omg 2 : 0.912645
+joint status: 1 | imu status: 0
+omg 2 : 0.912645
+joint status: 1 | imu status: 0
+omg 2 : 0.912645
+joint status: 1 | imu status: 0
+omg 2 : 0.912645
+joint status: 1 | imu status: 0
+omg 2 : 0.912645
+joint status: 1 | imu status: 0
+omg 2 : 0.850146
+joint status: 1 | imu status: 0
+omg 2 : 0.850146
+joint status: 1 | imu status: 0
+omg 2 : 0.850146
+joint status: 1 | imu status: 0
+omg 2 : 0.850146
+joint status: 1 | imu status: 0
+omg 2 : 0.850146
+joint status: 1 | imu status: 0
+omg 2 : 0.823138
+joint status: 1 | imu status: 0
+omg 2 : 0.823138
+joint status: 1 | imu status: 0
+omg 2 : 0.823138
+joint status: 1 | imu status: 0
+omg 2 : 0.823138
+joint status: 1 | imu status: 0
+omg 2 : 0.823138
+joint status: 1 | imu status: 0
+omg 2 : 0.859909
+joint status: 1 | imu status: 0
+omg 2 : 0.859909
+joint status: 1 | imu status: 0
+omg 2 : 0.859909
+joint status: 1 | imu status: 0
+omg 2 : 0.859909
+joint status: 1 | imu status: 0
+omg 2 : 0.859909
+joint status: 1 | imu status: 0
+omg 2 : 0.919791
+joint status: 1 | imu status: 0
+omg 2 : 0.919791
+joint status: 1 | imu status: 0
+omg 2 : 0.919791
+joint status: 1 | imu status: 0
+omg 2 : 0.919791
+joint status: 1 | imu status: 0
+omg 2 : 0.919791
+joint status: 1 | imu status: 0
+omg 2 : 0.959864
+joint status: 1 | imu status: 0
+omg 2 : 0.959864
+joint status: 1 | imu status: 0
+omg 2 : 0.959864
+joint status: 1 | imu status: 0
+omg 2 : 0.959864
+joint status: 1 | imu status: 0
+omg 2 : 0.959864
+joint status: 1 | imu status: 0
+omg 2 : 0.964232
+joint status: 1 | imu status: 0
+omg 2 : 0.964232
+joint status: 1 | imu status: 0
+omg 2 : 0.964232
+joint status: 1 | imu status: 0
+omg 2 : 0.964232
+joint status: 1 | imu status: 0
+omg 2 : 0.964232
+joint status: 1 | imu status: 0
+omg 2 : 0.915532
+joint status: 1 | imu status: 0
+omg 2 : 0.915532
+joint status: 1 | imu status: 0
+omg 2 : 0.915532
+joint status: 1 | imu status: 0
+omg 2 : 0.915532
+joint status: 1 | imu status: 0
+omg 2 : 0.915532
+joint status: 1 | imu status: 0
+omg 2 : 0.945489
+joint status: 1 | imu status: 0
+omg 2 : 0.945489
+joint status: 1 | imu status: 0
+omg 2 : 0.945489
+joint status: 1 | imu status: 0
+omg 2 : 0.945489
+joint status: 1 | imu status: 0
+omg 2 : 0.945489
+joint status: 1 | imu status: 0
+omg 2 : 0.957318
+joint status: 1 | imu status: 0
+omg 2 : 0.957318
+joint status: 1 | imu status: 0
+omg 2 : 0.957318
+joint status: 1 | imu status: 0
+omg 2 : 0.957318
+joint status: 1 | imu status: 0
+omg 2 : 0.957318
+joint status: 1 | imu status: 0
+omg 2 : 0.937471
+joint status: 1 | imu status: 0
+omg 2 : 0.937471
+joint status: 1 | imu status: 0
+omg 2 : 0.937471
+joint status: 1 | imu status: 0
+omg 2 : 0.937471
+joint status: 1 | imu status: 0
+omg 2 : 0.937471
+joint status: 1 | imu status: 0
+omg 2 : 0.917198
+joint status: 1 | imu status: 0
+omg 2 : 0.917198
+joint status: 1 | imu status: 0
+omg 2 : 0.917198
+joint status: 1 | imu status: 0
+omg 2 : 0.917198
+joint status: 1 | imu status: 0
+omg 2 : 0.917198
+joint status: 1 | imu status: 0
+omg 2 : 0.920647
+joint status: 1 | imu status: 0
+omg 2 : 0.920647
+joint status: 1 | imu status: 0
+omg 2 : 0.920647
+joint status: 1 | imu status: 0
+omg 2 : 0.920647
+joint status: 1 | imu status: 0
+omg 2 : 0.920647
+joint status: 1 | imu status: 0
+omg 2 : 0.947424
+joint status: 1 | imu status: 0
+omg 2 : 0.947424
+joint status: 1 | imu status: 0
+omg 2 : 0.947424
+joint status: 1 | imu status: 0
+omg 2 : 0.947424
+joint status: 1 | imu status: 0
+omg 2 : 0.947424
+joint status: 1 | imu status: 0
+omg 2 : 0.962981
+joint status: 1 | imu status: 0
+omg 2 : 0.962981
+joint status: 1 | imu status: 0
+omg 2 : 0.962981
+joint status: 1 | imu status: 0
+omg 2 : 0.962981
+joint status: 1 | imu status: 0
+omg 2 : 0.962981
+joint status: 1 | imu status: 0
+omg 2 : 0.957862
+joint status: 1 | imu status: 0
+omg 2 : 0.957862
+joint status: 1 | imu status: 0
+omg 2 : 0.957862
+joint status: 1 | imu status: 0
+omg 2 : 0.957862
+joint status: 1 | imu status: 0
+omg 2 : 0.957862
+joint status: 1 | imu status: 0
+omg 2 : 0.947994
+joint status: 1 | imu status: 0
+omg 2 : 0.947994
+joint status: 1 | imu status: 0
+omg 2 : 0.947994
+joint status: 1 | imu status: 0
+omg 2 : 0.947994
+joint status: 1 | imu status: 0
+omg 2 : 0.947994
+joint status: 1 | imu status: 0
+omg 2 : 0.917117
+joint status: 1 | imu status: 0
+omg 2 : 0.917117
+joint status: 1 | imu status: 0
+omg 2 : 0.917117
+joint status: 1 | imu status: 0
+omg 2 : 0.917117
+joint status: 1 | imu status: 0
+omg 2 : 0.917117
+joint status: 1 | imu status: 0
+omg 2 : 0.883442
+joint status: 1 | imu status: 0
+omg 2 : 0.883442
+joint status: 1 | imu status: 0
+omg 2 : 0.883442
+joint status: 1 | imu status: 0
+omg 2 : 0.883442
+joint status: 1 | imu status: 0
+omg 2 : 0.883442
+joint status: 1 | imu status: 0
+omg 2 : 0.842005
+joint status: 1 | imu status: 0
+omg 2 : 0.842005
+joint status: 1 | imu status: 0
+omg 2 : 0.842005
+joint status: 1 | imu status: 0
+omg 2 : 0.842005
+joint status: 1 | imu status: 0
+omg 2 : 0.842005
+joint status: 1 | imu status: 0
+omg 2 : 0.815232
+joint status: 1 | imu status: 0
+omg 2 : 0.815232
+joint status: 1 | imu status: 0
+omg 2 : 0.815232
+joint status: 1 | imu status: 0
+omg 2 : 0.815232
+joint status: 1 | imu status: 0
+omg 2 : 0.815232
+joint status: 1 | imu status: 0
+omg 2 : 0.789612
+joint status: 1 | imu status: 0
+omg 2 : 0.789612
+joint status: 1 | imu status: 0
+omg 2 : 0.789612
+joint status: 1 | imu status: 0
+omg 2 : 0.789612
+joint status: 1 | imu status: 0
+omg 2 : 0.789612
+joint status: 1 | imu status: 0
+omg 2 : 0.818409
+joint status: 1 | imu status: 0
+omg 2 : 0.818409
+joint status: 1 | imu status: 0
+omg 2 : 0.818409
+joint status: 1 | imu status: 0
+omg 2 : 0.818409
+joint status: 1 | imu status: 0
+omg 2 : 0.818409
+joint status: 1 | imu status: 0
+omg 2 : 0.845784
+joint status: 1 | imu status: 0
+omg 2 : 0.845784
+joint status: 1 | imu status: 0
+omg 2 : 0.845784
+joint status: 1 | imu status: 0
+omg 2 : 0.845784
+joint status: 1 | imu status: 0
+omg 2 : 0.845784
+joint status: 1 | imu status: 0
+omg 2 : 0.840337
+joint status: 1 | imu status: 0
+omg 2 : 0.840337
+joint status: 1 | imu status: 0
+omg 2 : 0.840337
+joint status: 1 | imu status: 0
+omg 2 : 0.840337
+joint status: 1 | imu status: 0
+omg 2 : 0.840337
+joint status: 1 | imu status: 0
+omg 2 : 0.85154
+joint status: 1 | imu status: 0
+omg 2 : 0.85154
+joint status: 1 | imu status: 0
+omg 2 : 0.85154
+joint status: 1 | imu status: 0
+omg 2 : 0.85154
+joint status: 1 | imu status: 0
+omg 2 : 0.85154
+joint status: 1 | imu status: 0
+omg 2 : 0.882859
+joint status: 1 | imu status: 0
+omg 2 : 0.882859
+joint status: 1 | imu status: 0
+omg 2 : 0.882859
+joint status: 1 | imu status: 0
+omg 2 : 0.882859
+joint status: 1 | imu status: 0
+omg 2 : 0.882859
+joint status: 1 | imu status: 0
+omg 2 : 0.92601
+joint status: 1 | imu status: 0
+omg 2 : 0.92601
+joint status: 1 | imu status: 0
+omg 2 : 0.92601
+joint status: 1 | imu status: 0
+omg 2 : 0.92601
+joint status: 1 | imu status: 0
+omg 2 : 0.92601
+joint status: 1 | imu status: 0
+omg 2 : 0.972978
+joint status: 1 | imu status: 0
+omg 2 : 0.972978
+joint status: 1 | imu status: 0
+omg 2 : 0.972978
+joint status: 1 | imu status: 0
+omg 2 : 0.972978
+joint status: 1 | imu status: 0
+omg 2 : 0.972978
+joint status: 1 | imu status: 0
+omg 2 : 0.999746
+joint status: 1 | imu status: 0
+omg 2 : 0.999746
+joint status: 1 | imu status: 0
+omg 2 : 0.999746
+joint status: 1 | imu status: 0
+omg 2 : 0.999746
+joint status: 1 | imu status: 0
+omg 2 : 0.999746
+joint status: 1 | imu status: 0
+omg 2 : 1.01354
+joint status: 1 | imu status: 0
+omg 2 : 1.01354
+joint status: 1 | imu status: 0
+omg 2 : 1.01354
+joint status: 1 | imu status: 0
+omg 2 : 1.01354
+joint status: 1 | imu status: 0
+omg 2 : 1.01354
+joint status: 1 | imu status: 0
+omg 2 : 0.992785
+joint status: 1 | imu status: 0
+omg 2 : 0.992785
+joint status: 1 | imu status: 0
+omg 2 : 0.992785
+joint status: 1 | imu status: 0
+omg 2 : 0.992785
+joint status: 1 | imu status: 0
+omg 2 : 0.992785
+joint status: 1 | imu status: 0
+omg 2 : 0.974167
+joint status: 1 | imu status: 0
+omg 2 : 0.974167
+joint status: 1 | imu status: 0
+omg 2 : 0.974167
+joint status: 1 | imu status: 0
+omg 2 : 0.974167
+joint status: 1 | imu status: 0
+omg 2 : 0.974167
+joint status: 1 | imu status: 0
+omg 2 : 0.977922
+joint status: 1 | imu status: 0
+omg 2 : 0.977922
+joint status: 1 | imu status: 0
+omg 2 : 0.977922
+joint status: 1 | imu status: 0
+omg 2 : 0.977922
+joint status: 1 | imu status: 0
+omg 2 : 0.977922
+joint status: 1 | imu status: 0
+omg 2 : 0.976513
+joint status: 1 | imu status: 0
+omg 2 : 0.976513
+joint status: 1 | imu status: 0
+omg 2 : 0.976513
+joint status: 1 | imu status: 0
+omg 2 : 0.976513
+joint status: 1 | imu status: 0
+omg 2 : 0.976513
+joint status: 1 | imu status: 0
+omg 2 : 1.01968
+joint status: 1 | imu status: 0
+omg 2 : 1.01968
+joint status: 1 | imu status: 0
+omg 2 : 1.01968
+joint status: 1 | imu status: 0
+omg 2 : 1.01968
+joint status: 1 | imu status: 0
+omg 2 : 1.01968
+joint status: 1 | imu status: 0
+omg 2 : 1.05836
+joint status: 1 | imu status: 0
+omg 2 : 1.05836
+joint status: 1 | imu status: 0
+omg 2 : 1.05836
+joint status: 1 | imu status: 0
+omg 2 : 1.05836
+joint status: 1 | imu status: 0
+omg 2 : 1.05836
+joint status: 1 | imu status: 0
+omg 2 : 1.04641
+joint status: 1 | imu status: 0
+omg 2 : 1.04641
+joint status: 1 | imu status: 0
+omg 2 : 1.04641
+joint status: 1 | imu status: 0
+omg 2 : 1.04641
+joint status: 1 | imu status: 0
+omg 2 : 1.04641
+joint status: 1 | imu status: 0
+omg 2 : 1.02658
+joint status: 1 | imu status: 0
+omg 2 : 1.02658
+joint status: 1 | imu status: 0
+omg 2 : 1.02658
+joint status: 1 | imu status: 0
+omg 2 : 1.02658
+joint status: 1 | imu status: 0
+omg 2 : 1.02658
+joint status: 1 | imu status: 0
+omg 2 : 1.01669
+joint status: 1 | imu status: 0
+omg 2 : 1.01669
+joint status: 1 | imu status: 0
+omg 2 : 1.01669
+joint status: 1 | imu status: 0
+omg 2 : 1.01669
+joint status: 1 | imu status: 0
+omg 2 : 1.01669
+joint status: 1 | imu status: 0
+omg 2 : 1.03274
+joint status: 1 | imu status: 0
+omg 2 : 1.03274
+joint status: 1 | imu status: 0
+omg 2 : 1.03274
+joint status: 1 | imu status: 0
+omg 2 : 1.03274
+joint status: 1 | imu status: 0
+omg 2 : 1.03274
+joint status: 1 | imu status: 0
+omg 2 : 1.0342
+joint status: 1 | imu status: 0
+omg 2 : 1.0342
+joint status: 1 | imu status: 0
+omg 2 : 1.0342
+joint status: 1 | imu status: 0
+omg 2 : 1.0342
+joint status: 1 | imu status: 0
+omg 2 : 1.0342
+joint status: 1 | imu status: 0
+omg 2 : 1.03623
+joint status: 1 | imu status: 0
+omg 2 : 1.03623
+joint status: 1 | imu status: 0
+omg 2 : 1.03623
+joint status: 1 | imu status: 0
+omg 2 : 1.03623
+joint status: 1 | imu status: 0
+omg 2 : 1.03623
+joint status: 1 | imu status: 0
+omg 2 : 1.09459
+joint status: 1 | imu status: 0
+omg 2 : 1.09459
+joint status: 1 | imu status: 0
+omg 2 : 1.09459
+joint status: 1 | imu status: 0
+omg 2 : 1.09459
+joint status: 1 | imu status: 0
+omg 2 : 1.09459
+joint status: 1 | imu status: 0
+omg 2 : 1.10157
+joint status: 1 | imu status: 0
+omg 2 : 1.10157
+joint status: 1 | imu status: 0
+omg 2 : 1.10157
+joint status: 1 | imu status: 0
+omg 2 : 1.10157
+joint status: 1 | imu status: 0
+omg 2 : 1.10157
+joint status: 1 | imu status: 0
+omg 2 : 1.05867
+joint status: 1 | imu status: 0
+omg 2 : 1.05867
+joint status: 1 | imu status: 0
+omg 2 : 1.05867
+joint status: 1 | imu status: 0
+omg 2 : 1.05867
+joint status: 1 | imu status: 0
+omg 2 : 1.05867
+joint status: 1 | imu status: 0
+omg 2 : 1.02222
+joint status: 1 | imu status: 0
+omg 2 : 1.02222
+joint status: 1 | imu status: 0
+omg 2 : 1.02222
+joint status: 1 | imu status: 0
+omg 2 : 1.02222
+joint status: 1 | imu status: 0
+omg 2 : 1.02222
+joint status: 1 | imu status: 0
+omg 2 : 0.954455
+joint status: 1 | imu status: 0
+omg 2 : 0.954455
+joint status: 1 | imu status: 0
+omg 2 : 0.954455
+joint status: 1 | imu status: 0
+omg 2 : 0.954455
+joint status: 1 | imu status: 0
+omg 2 : 0.954455
+joint status: 1 | imu status: 0
+omg 2 : 0.91583
+joint status: 1 | imu status: 0
+omg 2 : 0.91583
+joint status: 1 | imu status: 0
+omg 2 : 0.91583
+joint status: 1 | imu status: 0
+omg 2 : 0.91583
+joint status: 1 | imu status: 0
+omg 2 : 0.91583
+joint status: 1 | imu status: 0
+omg 2 : 0.896287
+joint status: 1 | imu status: 0
+omg 2 : 0.896287
+joint status: 1 | imu status: 0
+omg 2 : 0.896287
+joint status: 1 | imu status: 0
+omg 2 : 0.896287
+joint status: 1 | imu status: 0
+omg 2 : 0.896287
+joint status: 1 | imu status: 0
+omg 2 : 0.869353
+joint status: 1 | imu status: 0
+omg 2 : 0.869353
+joint status: 1 | imu status: 0
+omg 2 : 0.869353
+joint status: 1 | imu status: 0
+omg 2 : 0.869353
+joint status: 1 | imu status: 0
+omg 2 : 0.869353
+joint status: 1 | imu status: 0
+omg 2 : 0.826048
+joint status: 1 | imu status: 0
+omg 2 : 0.826048
+joint status: 1 | imu status: 0
+omg 2 : 0.826048
+joint status: 1 | imu status: 0
+omg 2 : 0.826048
+joint status: 1 | imu status: 0
+omg 2 : 0.826048
+joint status: 1 | imu status: 0
+acc  :  3.56235 -4.22062  15.4459
+joint status: 1 | imu status: 0
+acc  :  3.56235 -4.22062  15.4459
+joint status: 1 | imu status: 0
+acc  :  3.56235 -4.22062  15.4459
+joint status: 1 | imu status: 0
+acc  :  3.56235 -4.22062  15.4459
+joint status: 1 | imu status: 0
+acc  :  3.56235 -4.22062  15.4459
+joint status: 1 | imu status: 0
+acc  :  5.32193 -4.39701  16.5975
+joint status: 1 | imu status: 0
+acc  :  5.32193 -4.39701  16.5975
+joint status: 1 | imu status: 0
+acc  :  5.32193 -4.39701  16.5975
+joint status: 1 | imu status: 0
+acc  :  5.32193 -4.39701  16.5975
+joint status: 1 | imu status: 0
+acc  :  5.32193 -4.39701  16.5975
+joint status: 1 | imu status: 0
+acc  :  4.05859 -2.97042  14.4347
+joint status: 1 | imu status: 0
+acc  :  4.05859 -2.97042  14.4347
+joint status: 1 | imu status: 0
+acc  :  4.05859 -2.97042  14.4347
+joint status: 1 | imu status: 0
+acc  :  4.05859 -2.97042  14.4347
+joint status: 1 | imu status: 0
+acc  :  4.05859 -2.97042  14.4347
+joint status: 1 | imu status: 0
+acc  : -0.886639  0.400928   14.8823
+joint status: 1 | imu status: 0
+acc  : -0.886639  0.400928   14.8823
+joint status: 1 | imu status: 0
+acc  : -0.886639  0.400928   14.8823
+joint status: 1 | imu status: 0
+acc  : -0.886639  0.400928   14.8823
+joint status: 1 | imu status: 0
+acc  : -0.886639  0.400928   14.8823
+joint status: 1 | imu status: 0
+idle_state ------------> standup_state
+standup_state ------------> rl_control
+enter parkour
+command vel0
+cost_time:  10.3206 ms
+command vel0
+cost_time:  3.84796 ms
+command vel0
+cost_time:  3.54258 ms
+command vel0
+cost_time:  2.8175 ms
+command vel0
+cost_time:  3.35067 ms
+command vel0
+cost_time:  6.92533 ms
+command vel0
+cost_time:  3.178 ms
+command vel0
+cost_time:  2.92396 ms
+command vel0
+cost_time:  3.21592 ms
+command vel0
+cost_time:  3.57875 ms
+command vel0
+cost_time:  3.18354 ms
+command vel0
+cost_time:  2.92921 ms
+command vel0
+cost_time:  3.25762 ms
+command vel0
