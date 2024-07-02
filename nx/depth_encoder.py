@@ -86,7 +86,7 @@ class DepthOnlyFCBackbone58x87(nn.Module):
 
 depth_backbone = DepthOnlyFCBackbone58x87(53, 32, 512)
 model = RecurrentDepthBackbone(depth_backbone, None)
-load_path = "/home/ysc/tianshu/model_1200.pt"
+load_path = "/home/ysc/tianshu/model_9000.pt"
 
 def load_model():
     global model
@@ -131,7 +131,6 @@ def send_depth_data():
     pipeline = rs.pipeline()
     pipeline.start()
 
-    last_time = datetime.now()
     frame_count = 0
 
     while True:
@@ -154,7 +153,7 @@ def send_depth_data():
         # Crop image
         depth_image = depth_image[:-2, 4:-4]
 
-        # Clip the values between 0 and 6 meters
+        # Clip the values between 0 and 2 meters
         np.clip(depth_image, 0, 2, out=depth_image)
 
         depth_image = cv2.resize(depth_image, (87, 58), interpolation=cv2.INTER_LINEAR)
@@ -179,21 +178,6 @@ def send_depth_data():
 
         output = output_tensor.numpy().tobytes()
         sock_send.sendto(output, ('192.168.1.120', 12345))
-        # # Serialize and send data (consider compression or proper serialization here)
-        # data = np_vector.tobytes()
-
-        # sock.sendto(data, receiver_address)
-        # frame_count += 1
-
-        # # Timer and frequency calculation
-        # now = datetime.now()
-        # duration = (now - last_time).total_seconds()
-        # if duration >= 1:
-        #     print(f"Sending frequency: {frame_count} frames/sec")
-        #     frame_count = 0
-        #     last_time = now
-
-        # time.sleep(0.001)  # Send at 10Hz
 
 
 def main():
