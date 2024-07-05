@@ -7,7 +7,10 @@ The training repo: https://github.com/MildCloud/parkour_lite3
 
 ### Jumping Hurdle ###
 <p align="center">
-<img src="./hurdle.gif" width="80%"/>
+<img src="./parkour.gif" width="80%"/>
+</p>
+<p align="center">
+<img src="./gap.gif" width="80%"/>
 </p>
 
 ### Usage ###
