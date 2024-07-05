@@ -5,7 +5,7 @@ This is the code for deploy the extreme-parkour in deep robotics lite3.
 
 The training repo: https://github.com/MildCloud/parkour_lite3
 
-### Jumping Hurdle ###
+### Deploy video ###
 <p align="center">
 <img src="./parkour.gif" width="80%"/>
 </p>
