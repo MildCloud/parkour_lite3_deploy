@@ -1,7 +1,7 @@
 # parkour_lite3_deploy
 
 ### Description ###
-This is the code for deploy the extreme-parkour in deep robotics lite3.
+This is the code for deploying the extreme-parkour in deep robotics lite3.
 
 The training repo: https://github.com/MildCloud/parkour_lite3
 
